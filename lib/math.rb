@@ -18,6 +18,6 @@ def modulo(num1, num2)
   num1 % num2
 end
 
-def square_root(num)
-  sqrt(num)
+def square_root(num1)
+  sqrt(num1)
 end
